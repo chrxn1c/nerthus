@@ -24,6 +24,9 @@ Cargo.lock
 
 /target
 
+# RustRover stuff
+.idea/
+
 # Source books
 
 books/
