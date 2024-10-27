@@ -8,5 +8,5 @@ Nerthus is an application to do something at Sunday 2 am. This is a CLI applicat
 - Cargo installed
 
 ## Running
-
+- [this](https://raw.githubusercontent.com/asweigart/codebreaker/master/frankenstein.txt) to be pasted inside `./books/frankenstein`
 - `$ cargo run`
